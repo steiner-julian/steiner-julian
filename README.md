@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steinerj98
+- 👋 Hi, I’m @julian-steiner-ai
 - 👀 I’m interested in ... coding, Artificial-Intelligence
 - 🌱 I’m currently learning ... bachelor study Artificial-Intelligence
 - 💞️ I’m looking to collaborate on ... 
