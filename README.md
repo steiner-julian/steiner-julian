@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @julian-steiner-ai
-- 👀 I’m interested in ... coding, Artificial-Intelligence
-- 🌱 I’m currently learning ... bachelor study Artificial-Intelligence
-- 💞️ I’m looking to collaborate on ... 
+- 👋 Hi, I’m Julian -> @julian-steiner-ai
+- 👀 I’m interested in ... coding, artifical-intelligence (data science, machine learning, deep learning, ...)
+- 🌱 I’m currently learning ... (bachelor study) artifical intelligence @TH-Deggendorf
+- 💞️ I’m looking to collaborate on ... everything with coding & ai 
 - 📫 How to reach me ... https://www.julian-steiner.info
 
 <!---
