@@ -6,7 +6,7 @@
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/julian-steiner-ai?color=green&logo=github">
 </a>
 <a href="https://github.com/julian-steiner-ai/">
-	<img src="https://komarev.com/ghpvc/?username=julian-steiner-ai/" alt="visitors" />
+	<img src="https://komarev.com/ghpvc/?username=julian-steiner-ai" alt="visitors" />
 </a>
 
 <h2 align="center">
