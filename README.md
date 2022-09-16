@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://www.julian-steiner.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/Julian_Steiner_Banner.png" alt="my banner"></a>
+</p>
+
 <h3 align="center">
     Hi, I'm <a href="https://julian-steiner.net" target="_blank" rel="noreferrer">Julian</a> 👋
 </h3>
