@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Julian -> @julian-steiner-ai
-- 👀 I’m interested in ... coding, artifical-intelligence (data science, machine learning, deep learning, ...)
-- 🌱 I’m currently learning ... (bachelor study) artifical intelligence @TH-Deggendorf
-- 💞️ I’m looking to collaborate on ... everything with coding & ai 
-- 📫 How to reach me ... https://www.julian-steiner.net
+<h3 align="center">
+    Hi, I'm <a href="https://julian-steiner.net" target="_blank" rel="noreferrer">Julian</a> 👋
+</h3>
 
-<!---
-steinerj98/steinerj98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">
+I'm a Full-Stack Software-Engineer 💻 and Artifcial Intelligence Student 🧠!
+</h2> 
+
+### 🤝 Connect with me:
