@@ -2,6 +2,13 @@
     Hi, I'm <a href="https://julian-steiner.net" target="_blank" rel="noreferrer">Julian</a> 👋
 </h3>
 
+<a href="https://github.com/sudiptob2?tab=followers">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/julian-steiner-ai?color=green&logo=github">
+</a>
+<a href="https://github.com/julian-steiner-ai/">
+	<img src="https://komarev.com/ghpvc/?username=julian-steiner-ai/" alt="visitors" />
+</a>
+
 <h2 align="center">
 I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 </h2> 
