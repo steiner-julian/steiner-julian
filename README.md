@@ -28,6 +28,7 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 ## 💼 Technical Skills
 
+### Programming Languages
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,27 +43,28 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 </br>
 
+### Frameworks
 ![](https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![](https://img.shields.io/badge/jupyter-FF4500?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </br>
 
+### Database
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </br>
 
+### Tools
 ![](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-</br>
-
 ![](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 </br>
 
+### Operating Systems
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
