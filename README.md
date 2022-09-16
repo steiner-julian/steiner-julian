@@ -22,6 +22,8 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 ## 💼 Technical Skills
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=ffd343)
+
 ## 📝 Latest Blog Posts
 
 ## 📈 GitHub Stats
