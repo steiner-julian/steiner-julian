@@ -25,6 +25,8 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 </br>
 
+## 👀 I’m interested in
+
 ## 🔭 I'm currently working on
 
 ## 🌱 I'm currently learning
