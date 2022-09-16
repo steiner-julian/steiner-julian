@@ -8,9 +8,9 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/julian-steiner-0225b9190"><img align="center" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/linkedin.svg" alt="Julian | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/julian-steiner-0225b9190"><img align="left" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/linkedin.svg" alt="Julian | LinkedIn" width="21px"/></a>
 
-<a href="https://medium.com/@steinerj98"><img align="center" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/medium.svg" alt="Julian | Medium" width="21px"/></a>
+<a href="https://medium.com/@steinerj98"><img align="left" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/medium.svg" alt="Julian | Medium" width="21px"/></a>
 
 ## 🔭 I'm currently working on
 
