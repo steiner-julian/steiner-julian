@@ -25,3 +25,5 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 ## 📝 Latest Blog Posts
 
 ## 📈 GitHub Stats
+
+[![Julian's github stats](https://github-readme-stats.vercel.app/api?username=julian-steiner-ai)](https://github.com/julian-steiner-ai)
