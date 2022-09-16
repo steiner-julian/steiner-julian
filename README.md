@@ -12,6 +12,8 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 <a href="https://medium.com/@steinerj98"><img align="left" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/medium.svg" alt="Julian | Medium" width="21px"/></a>
 
+<a href="https://twitter.com/steinerj98"><img align="left" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/twitter.svg" alt="Julian | Twitter" width="21px"/></a>
+
 </br>
 
 ## 🔭 I'm currently working on
