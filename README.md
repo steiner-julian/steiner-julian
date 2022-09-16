@@ -6,7 +6,7 @@
     Hi, I'm <a href="https://julian-steiner.net" target="_blank" rel="noreferrer">Julian</a> 👋
 </h3>
 
-<a href="https://github.com/sudiptob2?tab=followers">
+<a href="https://github.com/julian-steiner-ai?tab=followers">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/julian-steiner-ai?color=green&logo=github">
 </a>
 <a href="https://github.com/julian-steiner-ai/">
