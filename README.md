@@ -14,11 +14,15 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 <a href="https://twitter.com/steinerj98"><img align="left" src="https://raw.githubusercontent.com/julian-steiner-ai/julian-steiner-ai/main/images/twitter.svg" alt="Julian | Twitter" width="21px"/></a>
 
+![](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+
 </br>
 
 ## 🔭 I'm currently working on
 
 ## 🌱 I'm currently learning
+
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## 💼 Technical Skills
 
@@ -28,6 +32,7 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ## 📝 Latest Blog Posts
 
