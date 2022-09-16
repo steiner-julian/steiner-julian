@@ -15,13 +15,13 @@ I'm a Full-Stack Software-Engineer 💻 & Artifcial Intelligence Student 🧠!
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/julian-steiner-0225b9190"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julian | LinkedIn"/></a>
+<a href="https://julian-steiner.net"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Julian Steiner" /></a>
 
 <a href="https://medium.com/@steinerj98"><img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Julian | Medium"/></a>
 
 <a href="https://twitter.com/steinerj98"><img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Julian | Twitter" /></a>
 
-<a href="https://julian-steiner.net"><img align="left" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Julian Steiner" /></a>
+<a href="https://www.linkedin.com/in/julian-steiner-0225b9190"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julian | LinkedIn"/></a>
 
 </br>
 
