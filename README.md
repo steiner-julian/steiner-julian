@@ -7,7 +7,7 @@
 </h3>
 
 <a href="https://github.com/julian-steiner-ai?tab=followers">
-	<img alt="GitHub followers" src="https://img.shields.io/github/followers/julian-steiner-ai?color=green&logo=github">
+	<img alt="GitHub followers" src="https://img.shields.io/github/followers/steiner-julian?color=green&logo=github">
 </a>
 <a href="https://github.com/julian-steiner-ai/">
 	<img src="https://komarev.com/ghpvc/?username=julian-steiner-ai" alt="visitors" />
